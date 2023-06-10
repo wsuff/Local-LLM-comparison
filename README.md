@@ -36,7 +36,7 @@ These models work better among the models I tested on my hardware (i5-12490F, 32
 |                                                                                 |           |                                                                                                                                                                                                                                                           |            |                                                                         |
 
 Many thanks to:  
-❤️ GPT4ALl: https://github.com/nomic-ai/gpt4all-chat  
+❤️ GPT4ALL: https://github.com/nomic-ai/gpt4all  
 ❤️ llama.cpp: https://github.com/ggerganov/llama.cpp  
 ❤️ oobabooga text generation webui: https://github.com/oobabooga/text-generation-webui  
 ❤️ Colab webui inspired by camenduru: https://github.com/camenduru/text-generation-webui-colab/tree/main  
