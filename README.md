@@ -514,4 +514,4 @@ Explanation: This task tests the model's ability to categorize a list of words i
 - Selfee-13B-GPTQ (using oobabooga/text-generation-webui) : 4  
 - minotaur-13B-GPTQ (using oobabooga/text-generation-webui) : 2  
 - Vicuna-13B-CoT-GPTQ (using oobabooga/text-generation-webui) : 2  
-- CAMEL_13B_Combined_Data_GPTQ (using oobabooga/text-generation-webui) : 4  
+- CAMEL_13B_Combined_Data_GPTQ (using oobabooga/text-generation-webui) : 4
